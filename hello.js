@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("It took 45 minutes to figure out why npm install only spat out erorrs");
+console.log("Hello, world!");
 
 /*  
 Next, PLAY! 
